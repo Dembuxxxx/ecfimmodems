@@ -84,6 +84,7 @@ header li {
     background-repeat: no-repeat;
     height: 799px;
     background-attachment: fixed;
+    min-height: 70px;
     
    }
 
