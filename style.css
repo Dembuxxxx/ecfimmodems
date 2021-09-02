@@ -79,10 +79,9 @@ header li {
  #ImagePrincipale {
 
     padding-top: 60px;
-    background-image: url(dossier\ image/MagePrincipal.jpeg);
+    background-image: url();
     background-size: cover;
     background-repeat: no-repeat;
-    height: 799px;
     background-attachment: fixed;
     min-height: 70px;
     
