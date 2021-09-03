@@ -116,6 +116,7 @@ text-shadow: 1x 3px 2px black;
     font-size: 1.8em;
     margin: 15px;
     font-weight: 300;
+    background-size: 150px;
 }
 
 .ImagesPrestations img {
@@ -123,6 +124,7 @@ text-shadow: 1x 3px 2px black;
     border-radius: 10px;
     box-shadow: 5px 5px 3px 1px rgba(0, 0, 0, 0.7);
     margin-top: 50px;
+    background-size: 150px;
     
 }
 
@@ -155,6 +157,7 @@ img {
     border-radius: 10px;
     box-shadow: 5px 5px 3px 1px rgba(0, 0, 0, 0.7);
     margin-top: 50px;
+    background-size: 150px;
 
 
 }
