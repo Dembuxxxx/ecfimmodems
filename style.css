@@ -79,11 +79,12 @@ header li {
  #ImagePrincipale {
 
     padding-top: 60px;
-    background-image: url();
+    background-image: url(dossier\ image/MagePrincipal.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     min-height: 70px;
+
     
    }
 
@@ -93,7 +94,6 @@ h1 {
         font-weight: bolder;
         text-align:center;
         color:black;
-        font-size: 6em;
         margin-top: 90px;
         font-family:'dancing script', cursive;
     }
