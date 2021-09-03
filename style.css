@@ -69,9 +69,9 @@ header li {
 
 
 h1 {
-        font-weight: bold;
+        font-weight: bolder;
         text-align:center;
-        color:black;
+        color:rgba(80, 64, 64, 0.178);
         margin-top: 90px;
         font-family:'dancing script', cursive;
 
