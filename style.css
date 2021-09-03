@@ -47,8 +47,8 @@ nav {
  background-color:rgb(243, 227, 227);
  position: fixed;
  width: 100%;
-opacity: 0.9;
-padding: 20px;
+ opacity: 0.9;
+ padding: 20px;
 
 }
 
@@ -163,7 +163,7 @@ p {
 
 }
 
-navbar-brand {
+navbar-class {
   
     max-height: 40px;
     text-align: center;
