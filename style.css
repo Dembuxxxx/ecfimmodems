@@ -5,7 +5,7 @@ body {
   
     padding: 30px 10px;;
     Margin: -10px;
-    background-color:rgb(163, 129, 84)
+    background-color:rgba(243, 155, 40, 0.473)
 }
 
 
@@ -16,14 +16,6 @@ ul {
 
 }
 
-li {
-
-list-style-type: none;
-
-
-
-
-}
 
 h2 {
  text-transform: uppercase;
@@ -44,7 +36,7 @@ a {
 
 nav {
  overflow: hidden;
- background-color:rgb(243, 227, 227);
+ background-color:rgb(240, 182, 182);
  position: fixed;
  width: 100%;
  opacity: 0.9;
@@ -69,12 +61,6 @@ header li {
 
  }
 
- #logo {
-
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
-    float: left;
- }
 
  #ImagePrincipale {
 
