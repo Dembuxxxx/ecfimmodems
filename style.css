@@ -78,11 +78,12 @@ header li {
 
 
 h1 {
-        font-weight: bolder;
+        font-weight: bold;
         text-align:center;
         color:black;
         margin-top: 90px;
         font-family:'dancing script', cursive;
+        
     }
 
 h2{
@@ -94,6 +95,9 @@ font-family:'dancing Script, cursive';
 margin-top: -20px;
 color:black;
 padding-top: 60px;
+text-transform: uppercase;
+
+
 
 
 }
