@@ -5,7 +5,7 @@ body {
   
     padding: 30px 10px;;
     Margin: -10px;
-    background-color:antiquewhite
+    background-color:rgb(163, 129, 84)
 }
 
 
@@ -75,7 +75,7 @@ header li {
     font-weight: bold;
     float: left;
  }
-/* --------------------Image Principale----------*/
+
  #ImagePrincipale {
 
     padding-top: 60px;
