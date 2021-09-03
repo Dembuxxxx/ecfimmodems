@@ -27,22 +27,13 @@ h2 {
 }
 
 a {
- text-decoration: none;
+ text-align: center;
  color: black;
 
 
 
 }
 
-nav {
- overflow: hidden;
- background-color:rgb(240, 182, 182);
- position: fixed;
- width: 100%;
- opacity: 0.9;
- padding: 20px;
-
-}
 
 header li {
     float: right;
@@ -83,7 +74,7 @@ h1 {
         color:black;
         margin-top: 90px;
         font-family:'dancing script', cursive;
-        
+
     }
 
 h2{
