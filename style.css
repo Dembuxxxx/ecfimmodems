@@ -72,8 +72,12 @@ h1 {
         font-weight: bolder;
         text-align:center;
         color:rgb(10, 10, 10);
-        margin-top: 90px;
-        font-family:'dancing script', cursive;
+        font-family:'arial';
+        float: left;
+        padding-left: 10px;
+        
+        
+        
 
     }
 
@@ -150,6 +154,7 @@ navbar-class {
   
     max-height: 40px;
     text-align: center;
+    font-family: Arial;
 }
 
 img {
