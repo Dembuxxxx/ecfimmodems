@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2? family = Advent + Pro & family = Dancing + Script: wght @ 500 & display = swap');
 
 body {
-  font-family: 'Advent Pro', sans-serif;
-  
+    font-family: Arial, Helvetica, sans-serif;
     padding: 30px 10px;;
     Margin: -10px;
-    background-color:rgba(243, 155, 40, 0.473)
+    background-color:rgb(192, 149, 93)
 }
 
 
@@ -63,8 +62,7 @@ header li {
     height: 799px; 
     min-height: 70px;
 
-    
-   }
+ }
 
 
 
@@ -76,12 +74,9 @@ h1 {
         float: left;
         padding-left: 10px;
         
-        
-        
-
     }
 
-h2{
+h2 {
 
 font-weight:lighter;
 text-align: center;
@@ -91,9 +86,6 @@ margin-top: -20px;
 color:black;
 padding-top: 60px;
 text-transform: uppercase;
-
-
-
 
 }
 
@@ -105,9 +97,9 @@ h3 {
 
 }
 
-h4{
+h4 {
 
-font-family: 'dancing Script, cursive';
+font-family: 'Advent Pro';
 text-align: left;
 margin: 10px;
 text-shadow: 1x 3px 2px black;
@@ -134,7 +126,7 @@ text-shadow: 1x 3px 2px black;
 
 p {
  
- font-family: 'dancing Script', cursive;
+ font-family: Arial;
  margin: auto;
  padding-top:15px;
  font-weight: bold;
@@ -147,11 +139,7 @@ p {
     opacity: 0.5;
     transform: scale(1.05);
     transition: 0.6s ease-in-out;
-
 }
-
-
-
 
 
 img {
@@ -160,6 +148,4 @@ img {
     box-shadow: 5px 5px 3px 1px rgba(0, 0, 0, 0.7);
     margin-top: 50px;
     background-size: 150px;
-
-
 }
